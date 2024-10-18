@@ -1,0 +1,7 @@
+C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\netcoreapp3.1\Grocerly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\netcoreapp3.1\Grocerly.AssemblyInfoInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\netcoreapp3.1\Grocerly.AssemblyInfo.cs
+C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\netcoreapp3.1\Grocerly.csproj.CoreCompileInputs.cache
+C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\netcoreapp3.1\Grocerly.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\netcoreapp3.1\Grocerly.RazorAssemblyInfo.cache
+C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\netcoreapp3.1\Grocerly.RazorAssemblyInfo.cs
