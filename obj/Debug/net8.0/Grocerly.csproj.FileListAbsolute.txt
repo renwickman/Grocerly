@@ -26,3 +26,4 @@ C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\net8.0\refint\Grocerly.
 C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\net8.0\Grocerly.pdb
 C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\net8.0\Grocerly.genruntimeconfig.cache
 C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\net8.0\ref\Grocerly.dll
+C:\Users\renwi\Desktop\CsharpProjects\Grocerly\obj\Debug\net8.0\Grocerly.sourcelink.json
